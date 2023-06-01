@@ -1,0 +1,1 @@
+web: gunicorn sean-django-blog.wsgi
