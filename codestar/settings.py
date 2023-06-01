@@ -34,7 +34,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     '8000-sean127-djangoblog-kcr4ar02idb.ws-eu98.gitpod.io',
-    'sean-django-blog.heroku.com'
+    'sean-django-blog.herokuapp.com/'
 ]
 
 
