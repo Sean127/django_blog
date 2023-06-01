@@ -1,1 +1,1 @@
-web: gunicorn sean-django-blog.wsgi
+web: gunicorn codestar.wsgi
